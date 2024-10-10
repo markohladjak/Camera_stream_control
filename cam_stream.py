@@ -25,3 +25,4 @@ def start_camera_stream(update_frame_callback):
 
     cap.release()
     cv2.destroyAllWindows()
+
